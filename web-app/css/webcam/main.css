@@ -1,0 +1,74 @@
+/* 
+    Document   : main
+    Created on : 19/03/2013, 21:09:29
+    Author     : Alisson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+#estudio {
+    float: left;
+    width: 550px;
+    height: 300px;
+    padding: 0px;
+    margin-top: 10px;
+}
+.moldura {
+    float: left;
+    margin: 10px 7px 0px 7px;
+    border: solid 1px #8cb9cb;
+}
+#createFoto{
+    float: left;
+    width: 200px;
+    height: 290px;
+}
+#canvas {
+    float: left;
+    width: 180px;
+    height: 240px;
+}
+#criarFoto{
+    float: left;
+    width: 190px;
+    margin: 12px 20px 0 10px;
+    font-family: verdana;
+    font-size: 13px;
+    font-weight: bold;
+    color: #0000FF;
+    text-decoration: none;
+}
+#updateFoto{
+    float: left;
+    width: 340px;
+    height: 260px;
+    margin-left: 8px;
+}
+#webcam {
+    float: left;
+    width: 320px;
+    height: 240px;
+}
+.clear {
+    float: left;
+    width: 300px;
+    margin-left: 8px;
+    padding: 5px 0 5px 10px;
+}
+.clear img{
+    float: left;
+    margin-right: 10px;
+    width: 30px;
+    display: none;
+}
+.clear a{
+    float: left;
+    margin: 5px 20px 0 0;
+    font-family: verdana;
+    font-size: 13px;
+    font-weight: bold;
+    color: #0000FF;
+    text-decoration: none;
+}
+.clear a:hover{
+    text-decoration: underline;
+}

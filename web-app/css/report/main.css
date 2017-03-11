@@ -1,0 +1,107 @@
+/* 
+    Document   : main
+    Created on : 07/04/2013, 22:30:58
+    Author     : Alisson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.corpo{
+    float: left;
+    width: 900px;
+    font-family: verdana;
+    text-align: center;
+    color: #000000;
+}
+.header{
+    float: left;
+    width: 100%;
+    margin-bottom: 40px;
+    border-bottom: solid #cccccc 1px;
+}
+.header .logo{
+    float: left;
+    width: 120px;
+    margin: 15px 0 15px 20px;
+}
+.header .logo img{
+    width: 120px;
+    height: 80px;
+}
+.header h3{
+    float: left;
+    margin: 35px 0 0 20px;
+    width: 700px;
+    color: #666666;
+}
+.header h5{
+    float: left;
+    text-align: left;
+    font-weight: normal;
+    line-height: 150%;
+    width: 500px;
+    color: #666666;
+}
+.tabela{
+    width: 900px;
+    font-size: 10px;
+    margin-top: 10px;
+}
+.tabela thead td{
+    text-align: left;
+    background: #cce2ec;
+    font-weight: bold;
+    border-bottom: solid 1px #999999;
+    border-right: solid 1px #999999;
+}
+.tabela tbody td{
+    text-align: left;
+    font-weight: normal;
+    border-bottom: solid 1px #999999;
+    border-right: solid 1px #999999;
+}
+.tabela tbody th{
+    text-align: left;
+    font-weight: normal;
+    background: #e7ebec;
+    border-bottom: solid 1px #999999;
+    border-right: solid 1px #999999;
+}
+.legendaFooter{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin: 20px 0px 15px 0px;
+}
+.legendaFooter span{
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.rodape{
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+.rodape .usuario{
+    float: left;
+    width: 200px;
+    margin: 0 0 0 5px;
+    line-height: 120%;
+    color: #666666;
+}
+.rodape .p{
+    float: right;
+    text-align: right;
+    width: 280px;
+    font-size: 12px;
+}
+.rodape .img2{
+    float: right;
+    cursor: pointer;
+}
+

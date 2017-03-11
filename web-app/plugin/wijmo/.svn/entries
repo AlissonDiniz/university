@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://svn.sourceforge.net/svnroot/wwm-sts/trunk/standardista_table_sorting/web-app/js/wijmo
+https://svn.sourceforge.net/svnroot/wwm-sts
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c80c3a3c-7610-0410-92b5-b060cfc25293
+
+jquery.wijmo-open.1.5.0.min.js
+file
+
+
+
+add
+
+system.js
+file
+
+
+
+add
+
+globalize.min.js
+file
+
+
+
+add
+
+jquery.wijmo-complete.1.5.0.min.js
+file
+
+
+
+add
+
+jquery-ui.min.js
+file
+
+
+
+add
+
+jquery.bgiframe-2.1.3-pre.js
+file
+
+
+
+add
+
+jquery.mousewheel.min.js
+file
+
+
+
+add
+
+jquery-1.6.2.min.js
+file
+
+
+
+add
+

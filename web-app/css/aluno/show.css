@@ -1,0 +1,59 @@
+/* 
+    Document   : show
+    Created on : 31/03/2013, 20:05:06
+    Author     : Alisson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.alertas{
+    float: left;
+    width: 700px;
+    margin-left: 10px;
+}
+.pendencia{
+    float: left;
+    width: 100%;
+    padding: 2px 0 2px 5px;
+    margin: 0 0 5px 0;
+    background: #fad0d0;
+    color: #2b2b2b;
+    /*corner*/
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    border: solid 1px #f6abab;
+}  
+.pendencia img{
+    float: left;
+    margin-right: 10px;
+}
+.pendencia span{
+    float: left;
+    margin-top: 3px;
+    font-size: 10px;
+    font-weight: bold;
+}
+.observacao{
+    float: left;
+    width: 100%;
+    padding: 2px 0 2px 5px;
+    margin: 0 0 5px 0;
+    background: #fff6bf;
+    color: #2b2b2b;
+    /*corner*/
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    border: solid 1px #fceb77;
+}  
+.observacao img{
+    float: left;
+    margin-right: 10px;
+}
+.observacao span{
+    float: left;
+    margin-top: 3px;
+    font-size: 10px;
+    font-weight: bold;
+}

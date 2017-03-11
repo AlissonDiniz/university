@@ -1,0 +1,91 @@
+/* 
+    Document   : t
+    Created on : 10/03/2013, 18:38:58
+    Author     : Alisson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#mytable {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 10px 0 10px 0;
+    text-align: center;
+    font-size: 14px;
+}
+#mytable thead td {
+    font: bold 11px Helvetica, Arial, Verdana, Arial, sans-serif;
+    color: #FFFFFF;
+    border-right: 1px solid #D9D9D9;
+    border-bottom: 1px solid #D9D9D9;
+    border-top: 1px solid #D9D9D9;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 10px 6px 10px 6px;
+    background: #4485F3;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+#mytable tbody td {
+    font-size: 10px;
+    font-weight: normal;
+    border-right: 1px solid #D9D9D9;
+    border-bottom: 1px solid #D9D9D9;
+    background: #fff;
+    padding: 6px 6px 6px 6px;
+    color: #4f6b72;
+	text-align: center;
+}
+#mytable tbody th {
+    font-size: 10px;
+    font-weight: normal;
+    border-right: 1px solid #D9D9D9;
+    border-bottom: 1px solid #D9D9D9;
+    padding: 6px 6px 6px 6px;
+    background: #F5F5F5;
+    color: #797268;
+	text-align: center;
+}
+#mytable tbody td a, #mytable tbody th a{
+	text-align: center;
+}
+#mytable tbody a img{
+    width: 20px;
+    border: none;
+}
+
+div.pagination {
+    padding: 3px;
+    margin: 3px;
+}
+div.pagination a {
+    padding: 2px 5px 2px 5px;
+    margin: 2px;
+    border: 1px solid #AAAADD;
+
+    text-decoration: none; /* no underline */
+    color: #000099;
+}
+div.pagination a:hover, div.pagination a:active {
+    border: 1px solid #000099;
+
+    color: #000;
+}
+div.pagination span.current {
+    padding: 2px 5px 2px 5px;
+    margin: 2px;
+    border: 1px solid #000099;
+
+    font-weight: bold;
+    background-color: #000099;
+    color: #FFF;
+}
+div.pagination span.disabled {
+    padding: 2px 5px 2px 5px;
+    margin: 2px;
+    border: 1px solid #EEE;
+
+    color: #DDD;
+}

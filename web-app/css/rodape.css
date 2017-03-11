@@ -1,0 +1,34 @@
+/* 
+    Document   : rodape
+    Created on : 31/07/2012, 10:33:36
+    Author     : Alisson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+
+.rodape{
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+.rodape .img1{
+    float: left;
+}
+.rodape .p{
+    float: right;
+    text-align: right;
+    width: 280px;
+    font-size: 12px;
+}
+.rodape .img2{
+    float: right;
+    cursor: pointer;
+}
+
+

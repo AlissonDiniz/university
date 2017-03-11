@@ -1,0 +1,25 @@
+/* 
+    Document   : t
+    Created on : 10/03/2013, 18:38:58
+    Author     : Alisson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.formulario{
+    float: left;
+    margin: 10px 0 0 10px; 
+    width: 720px;
+}
+.formulario .foto{
+    float: left;
+    width: 100px;
+    font-family:inherit;
+    color: #0000FF;
+    font-size: 10px;
+    text-align: center;
+}
+.formulario .foto img{
+    float: left;
+    width: 100px;
+    height: 120px;
+}

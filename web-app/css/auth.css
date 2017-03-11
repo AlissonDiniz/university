@@ -1,0 +1,74 @@
+/* 
+    Document   : auth
+    Created on : 13/03/2013, 15:32:02
+    Author     : Alisson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#boxCentral {
+    width: 750px;
+    height: 230px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+#boxCentral .logoTexto {
+    width: 385px;
+    height: 200px;
+    float: left;
+    margin: 10px 0px;
+    border-right: 1px solid #5787B3;
+}
+
+#boxCentral .logoTexto h1 {
+    font-family: 'Quando', sans-serif;
+    font-size: 60px;
+    color: #5787B3;
+    margin: 30px 40px -5px 0;
+    text-align: right;
+}
+
+#boxCentral .logoTexto span {
+    font-size: 0.8em;
+    color: #ccc;
+    float: right;
+    margin: 0 40px 20px 0;
+}
+
+#boxCentral .logoTexto .tipo {
+    font-size: 1em;
+    text-align: right;
+    width: 100%;
+    color: #5787B3;
+    float: right;
+    margin: 0 40px 10px 0;
+}
+
+#boxCentral .logoTexto p {
+    font-size: 0.8em;
+    color: #666;
+    float: right;
+    margin: 30px 40px 0 0;
+}
+
+
+/* área de login */
+#boxCentral .login {
+    width: 310px;
+    float: right;
+    padding-top: 10px;
+}
+
+#boxCentral .login h1 {
+    font-size: 1.1em;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+#boxCentral .login .login_message {
+    float: left;
+    font-size: 10px;
+    padding: 6px 0 0 0;
+    color: #FF0000;
+}
+

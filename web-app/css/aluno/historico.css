@@ -1,0 +1,23 @@
+/* 
+    Document   : historico
+    Created on : 28/04/2013, 21:07:07
+    Author     : Alisson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.table{
+    margin: 3px 0 0 15px;
+}
+.table th{
+    text-align: left;
+    font-size: 0.7em;
+    color: #333333;
+}
+.table td{
+    text-align: left;
+    font-size: 0.7em;
+    color: #0000FF;
+}
+
+

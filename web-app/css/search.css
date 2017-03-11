@@ -1,0 +1,12 @@
+/* 
+    Document   : t
+    Created on : 10/03/2013, 18:38:58
+    Author     : Alisson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.formulario{
+    float: left;
+    margin: 10px 0 0 10px; 
+    width: 720px;
+}
