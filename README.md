@@ -1,6 +1,6 @@
 # University Project
 
-Software for managing a museum library.
+Software for managing a small university.
 
 
 Technologies used:
